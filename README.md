@@ -140,14 +140,7 @@ The underlying sensing and position-control approach can be adapted for:
 - Light-sensitive positioning mechanisms.
 - Educational demonstrations of embedded systems and feedback control.
 
-## 10. Repository Contents
-
-- `solar_tracker.ino` — Arduino source code.
-- `README.md` — Project documentation.
-- `screenshots/circuit.png` — Circuit screenshot.
-- `screenshots/tracking_output.png` — Serial Monitor evidence.
-
-## 11. Conclusion
+## 10. Conclusion
 
 The project demonstrates a dual-axis light-tracking system using four LDRs, an Arduino Uno, and two servo motors. By comparing directional light averages and applying threshold-based corrections, the system can adjust its horizontal and vertical target angles while reducing unnecessary movement under small light differences.
 
